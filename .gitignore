@@ -1,0 +1,13 @@
+# Ignore large datasets
+*.csv
+
+# Keep summaries if you want
+!decade_summary*.csv
+!top5_genres*.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
