@@ -1,4 +1,5 @@
 # Ignore large datasets
+Dataset/
 *.csv
 
 # Keep summaries if you want
@@ -11,3 +12,9 @@ __pycache__/
 
 # Mac
 .DS_Store
+
+# Ignore PDF files
+*.pdf
+
+# vscode workspace
+*.code-workspace
